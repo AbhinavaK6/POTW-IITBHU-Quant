@@ -1,7 +1,7 @@
 # POTW-IITBHU-Quant
 This repository includes the solutions to Problem of The Week by Quant Club of IIT BHU<br>
 <b>
-Author - Abhinava Kalita
+Author - Abhinava Kalita<br>
 Language used - Python
 </b>
 
